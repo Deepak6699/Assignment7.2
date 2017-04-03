@@ -1,0 +1,12 @@
+package acadgild1;
+
+public class Assign72 {
+
+	public static void main(String[] args) {
+	String ans="Polymorphism";
+	String ans1=ans.substring(3, 9);
+	System.out.println("the substring found is:"+ans1);
+	
+	}
+
+}
